@@ -1,0 +1,1 @@
+run_scrap_guardian.py and run_join_previews write logs in this repo. You can change this behaviour in variables.py
