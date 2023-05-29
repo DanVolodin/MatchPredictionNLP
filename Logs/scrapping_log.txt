@@ -1,0 +1,680 @@
+Parsing page 2
+Error on page 2 parsing https://www.theguardian.com/football/2022/nov/04/premier-league-team-news-predicted-lineups-for-the-weekend-action
+Error log: Parsing Team Names list index out of range
+Error on page 2 parsing https://www.theguardian.com/football/2022/oct/28/premier-league-team-news-predicted-lineups-for-the-weekend-action
+Error log: Parsing Team Names list index out of range
+Error on page 2 parsing https://www.theguardian.com/football/2022/oct/21/premier-league-team-news-predicted-lineups-for-the-weekend-action
+Error log: Parsing Team Names list index out of range
+Error on page 2 parsing https://www.theguardian.com/football/2022/oct/14/premier-league-team-news-predicted-lineups-for-the-weekend-action
+Error log: Parsing Team Names list index out of range
+Error on page 2 parsing https://www.theguardian.com/football/2022/oct/07/premier-league-team-news-predicted-lineups-for-the-weekend-action
+Error log: Parsing Team Names list index out of range
+Error on page 2 parsing https://www.theguardian.com/football/2022/sep/30/premier-league-team-news-predicted-lineups-for-the-weekend-action
+Error log: Parsing Team Names list index out of range
+Error on page 2 parsing https://www.theguardian.com/football/2022/sep/16/premier-league-team-news-predicted-lineups-for-the-weekend-action
+Error log: Parsing Team Names list index out of range
+Error on page 2 parsing https://www.theguardian.com/football/2022/sep/02/premier-league-team-news-predicted-lineups-for-the-weekend-action
+Error log: Parsing Team Names list index out of range
+Error on page 2 parsing https://www.theguardian.com/football/2022/aug/26/premier-league-team-news-predicted-lineups-for-the-weekend-action
+Error log: Parsing Team Names list index out of range
+Error on page 2 parsing https://www.theguardian.com/football/2022/aug/19/premier-league-team-news-predicted-lineups-for-the-weekend-action
+Error log: Parsing Team Names list index out of range
+Error on page 2 parsing https://www.theguardian.com/football/2022/aug/12/premier-league-team-news-predicted-lineups-for-the-weekend-action
+Error log: Parsing Team Names list index out of range
+Error on page 2 parsing https://www.theguardian.com/football/2022/aug/05/premier-league-team-news-predicted-lineups
+Error log: Parsing Team Names list index out of range
+Previews parsed: 8 (+ 0 other games) on page number 2
+
+Parsing page 3
+Previews parsed: 19 (+ 1 other games) on page number 3
+
+Parsing page 4
+Previews parsed: 20 (+ 0 other games) on page number 4
+
+Parsing page 5
+Previews parsed: 18 (+ 2 other games) on page number 5
+
+Parsing page 6
+Previews parsed: 16 (+ 4 other games) on page number 6
+
+Parsing page 7
+Previews parsed: 20 (+ 0 other games) on page number 7
+
+Parsing page 8
+Previews parsed: 20 (+ 0 other games) on page number 8
+
+Parsing page 9
+Previews parsed: 20 (+ 0 other games) on page number 9
+
+Parsing page 10
+Previews parsed: 20 (+ 0 other games) on page number 10
+
+Parsing page 11
+Previews parsed: 20 (+ 0 other games) on page number 11
+
+Parsing page 12
+Previews parsed: 20 (+ 0 other games) on page number 12
+
+Parsing page 13
+Previews parsed: 20 (+ 0 other games) on page number 13
+
+Parsing page 14
+Previews parsed: 20 (+ 0 other games) on page number 14
+
+Parsing page 15
+Previews parsed: 20 (+ 0 other games) on page number 15
+
+Parsing page 16
+Previews parsed: 20 (+ 0 other games) on page number 16
+
+Parsing page 17
+Previews parsed: 20 (+ 0 other games) on page number 17
+
+Parsing page 18
+Previews parsed: 20 (+ 0 other games) on page number 18
+
+Parsing page 19
+Previews parsed: 20 (+ 0 other games) on page number 19
+
+Parsing page 20
+Previews parsed: 18 (+ 2 other games) on page number 20
+
+Parsing page 21
+Previews parsed: 20 (+ 0 other games) on page number 21
+
+Parsing page 22
+Previews parsed: 20 (+ 0 other games) on page number 22
+
+Parsing page 23
+Previews parsed: 20 (+ 0 other games) on page number 23
+
+Parsing page 24
+Previews parsed: 20 (+ 0 other games) on page number 24
+
+Parsing page 25
+Previews parsed: 20 (+ 0 other games) on page number 25
+
+Parsing page 26
+Previews parsed: 20 (+ 0 other games) on page number 26
+
+Parsing page 27
+Previews parsed: 20 (+ 0 other games) on page number 27
+
+Parsing page 28
+Previews parsed: 20 (+ 0 other games) on page number 28
+
+Parsing page 29
+Previews parsed: 20 (+ 0 other games) on page number 29
+
+Parsing page 30
+Previews parsed: 20 (+ 0 other games) on page number 30
+
+Parsing page 31
+Previews parsed: 20 (+ 0 other games) on page number 31
+
+Parsing page 32
+Previews parsed: 20 (+ 0 other games) on page number 32
+
+Parsing page 33
+Previews parsed: 20 (+ 0 other games) on page number 33
+
+Parsing page 34
+Previews parsed: 19 (+ 1 other games) on page number 34
+
+Parsing page 35
+Previews parsed: 19 (+ 1 other games) on page number 35
+
+Parsing page 36
+Previews parsed: 20 (+ 0 other games) on page number 36
+
+Parsing page 37
+Previews parsed: 20 (+ 0 other games) on page number 37
+
+Parsing page 38
+Previews parsed: 20 (+ 0 other games) on page number 38
+
+Parsing page 39
+Previews parsed: 20 (+ 0 other games) on page number 39
+
+Parsing page 40
+Previews parsed: 20 (+ 0 other games) on page number 40
+
+Parsing page 41
+Previews parsed: 20 (+ 0 other games) on page number 41
+
+Parsing page 42
+Previews parsed: 20 (+ 0 other games) on page number 42
+
+Parsing page 43
+Previews parsed: 20 (+ 0 other games) on page number 43
+
+Parsing page 44
+Previews parsed: 20 (+ 0 other games) on page number 44
+
+Parsing page 45
+Previews parsed: 20 (+ 0 other games) on page number 45
+
+Parsing page 46
+Previews parsed: 18 (+ 2 other games) on page number 46
+
+Parsing page 47
+Previews parsed: 16 (+ 4 other games) on page number 47
+
+Parsing page 48
+Previews parsed: 19 (+ 1 other games) on page number 48
+
+Parsing page 49
+Previews parsed: 19 (+ 1 other games) on page number 49
+
+Parsing page 50
+Previews parsed: 20 (+ 0 other games) on page number 50
+
+Parsing page 51
+Previews parsed: 19 (+ 1 other games) on page number 51
+
+Parsing page 52
+Previews parsed: 20 (+ 0 other games) on page number 52
+
+Parsing page 53
+Previews parsed: 20 (+ 0 other games) on page number 53
+
+Parsing page 54
+Previews parsed: 20 (+ 0 other games) on page number 54
+
+Parsing page 55
+Previews parsed: 20 (+ 0 other games) on page number 55
+
+Parsing page 56
+Previews parsed: 20 (+ 0 other games) on page number 56
+
+Parsing page 57
+Previews parsed: 20 (+ 0 other games) on page number 57
+
+Parsing page 58
+Previews parsed: 20 (+ 0 other games) on page number 58
+
+Parsing page 59
+Previews parsed: 20 (+ 0 other games) on page number 59
+
+Parsing page 60
+Previews parsed: 20 (+ 0 other games) on page number 60
+
+Parsing page 61
+Previews parsed: 18 (+ 2 other games) on page number 61
+
+Parsing page 62
+Previews parsed: 20 (+ 0 other games) on page number 62
+
+Parsing page 63
+Previews parsed: 16 (+ 4 other games) on page number 63
+
+Parsing page 64
+Previews parsed: 19 (+ 1 other games) on page number 64
+
+Parsing page 65
+Previews parsed: 14 (+ 6 other games) on page number 65
+
+Parsing page 66
+Previews parsed: 19 (+ 1 other games) on page number 66
+
+Parsing page 67
+Previews parsed: 19 (+ 1 other games) on page number 67
+
+Parsing page 68
+Previews parsed: 20 (+ 0 other games) on page number 68
+
+Parsing page 69
+Previews parsed: 20 (+ 0 other games) on page number 69
+
+Parsing page 70
+Previews parsed: 20 (+ 0 other games) on page number 70
+
+Parsing page 71
+Previews parsed: 20 (+ 0 other games) on page number 71
+
+Parsing page 72
+Previews parsed: 20 (+ 0 other games) on page number 72
+
+Parsing page 73
+Previews parsed: 20 (+ 0 other games) on page number 73
+
+Parsing page 74
+Previews parsed: 20 (+ 0 other games) on page number 74
+
+Parsing page 75
+Previews parsed: 20 (+ 0 other games) on page number 75
+
+Parsing page 76
+Previews parsed: 18 (+ 2 other games) on page number 76
+
+Parsing page 77
+Previews parsed: 20 (+ 0 other games) on page number 77
+
+Parsing page 78
+Previews parsed: 18 (+ 2 other games) on page number 78
+
+Parsing page 79
+Previews parsed: 20 (+ 0 other games) on page number 79
+
+Parsing page 80
+Previews parsed: 18 (+ 2 other games) on page number 80
+
+Parsing page 81
+Previews parsed: 18 (+ 2 other games) on page number 81
+
+Parsing page 82
+Previews parsed: 12 (+ 8 other games) on page number 82
+
+Parsing page 83
+Error on page 83 parsing https://www.theguardian.com/football/2017/jan/27/fa-cup-fourth-round-match-previews
+Error log: Parsing Team Names list index out of range
+Previews parsed: 13 (+ 6 other games) on page number 83
+
+Parsing page 84
+Previews parsed: 19 (+ 1 other games) on page number 84
+
+Parsing page 85
+Previews parsed: 20 (+ 0 other games) on page number 85
+
+Parsing page 86
+Previews parsed: 20 (+ 0 other games) on page number 86
+
+Parsing page 87
+Previews parsed: 20 (+ 0 other games) on page number 87
+
+Parsing page 88
+Previews parsed: 20 (+ 0 other games) on page number 88
+
+Parsing page 89
+Previews parsed: 20 (+ 0 other games) on page number 89
+
+Parsing page 90
+Previews parsed: 20 (+ 0 other games) on page number 90
+
+Parsing page 91
+Previews parsed: 20 (+ 0 other games) on page number 91
+
+Parsing page 92
+Previews parsed: 20 (+ 0 other games) on page number 92
+
+Parsing page 93
+Previews parsed: 20 (+ 0 other games) on page number 93
+
+Parsing page 94
+Previews parsed: 20 (+ 0 other games) on page number 94
+
+Parsing page 95
+Previews parsed: 18 (+ 2 other games) on page number 95
+
+Parsing page 96
+Previews parsed: 20 (+ 0 other games) on page number 96
+
+Parsing page 97
+Previews parsed: 20 (+ 0 other games) on page number 97
+
+Parsing page 98
+Previews parsed: 17 (+ 3 other games) on page number 98
+
+Parsing page 99
+Previews parsed: 12 (+ 8 other games) on page number 99
+
+Parsing page 100
+Previews parsed: 15 (+ 5 other games) on page number 100
+
+Parsing page 101
+Previews parsed: 10 (+ 10 other games) on page number 101
+
+Parsing page 102
+Previews parsed: 19 (+ 1 other games) on page number 102
+
+Parsing page 103
+Previews parsed: 20 (+ 0 other games) on page number 103
+
+Parsing page 104
+Previews parsed: 20 (+ 0 other games) on page number 104
+
+Parsing page 105
+Previews parsed: 20 (+ 0 other games) on page number 105
+
+Parsing page 106
+Previews parsed: 20 (+ 0 other games) on page number 106
+
+Parsing page 107
+Previews parsed: 20 (+ 0 other games) on page number 107
+
+Parsing page 108
+Previews parsed: 20 (+ 0 other games) on page number 108
+
+Parsing page 109
+Previews parsed: 15 (+ 5 other games) on page number 109
+
+Parsing page 110
+Previews parsed: 19 (+ 1 other games) on page number 110
+
+Parsing page 111
+Previews parsed: 18 (+ 2 other games) on page number 111
+
+Parsing page 112
+Previews parsed: 20 (+ 0 other games) on page number 112
+
+Parsing page 113
+Previews parsed: 20 (+ 0 other games) on page number 113
+
+Parsing page 114
+Previews parsed: 20 (+ 0 other games) on page number 114
+
+Parsing page 115
+Previews parsed: 18 (+ 2 other games) on page number 115
+
+Parsing page 116
+Previews parsed: 20 (+ 0 other games) on page number 116
+
+Parsing page 117
+Previews parsed: 15 (+ 5 other games) on page number 117
+
+Parsing page 118
+Previews parsed: 12 (+ 8 other games) on page number 118
+
+Parsing page 119
+Previews parsed: 20 (+ 0 other games) on page number 119
+
+Parsing page 120
+Previews parsed: 5 (+ 15 other games) on page number 120
+
+Parsing page 121
+Previews parsed: 19 (+ 1 other games) on page number 121
+
+Parsing page 122
+Previews parsed: 20 (+ 0 other games) on page number 122
+
+Parsing page 123
+Previews parsed: 20 (+ 0 other games) on page number 123
+
+Parsing page 124
+Previews parsed: 20 (+ 0 other games) on page number 124
+
+Parsing page 125
+Previews parsed: 20 (+ 0 other games) on page number 125
+
+Parsing page 126
+Previews parsed: 20 (+ 0 other games) on page number 126
+
+Parsing page 127
+Previews parsed: 20 (+ 0 other games) on page number 127
+
+Parsing page 128
+Previews parsed: 20 (+ 0 other games) on page number 128
+
+Parsing page 129
+Previews parsed: 20 (+ 0 other games) on page number 129
+
+Parsing page 130
+Previews parsed: 20 (+ 0 other games) on page number 130
+
+Parsing page 131
+Previews parsed: 20 (+ 0 other games) on page number 131
+
+Parsing page 132
+Previews parsed: 19 (+ 1 other games) on page number 132
+
+Parsing page 133
+Previews parsed: 19 (+ 1 other games) on page number 133
+
+Parsing page 134
+Previews parsed: 20 (+ 0 other games) on page number 134
+
+Parsing page 135
+Previews parsed: 20 (+ 0 other games) on page number 135
+
+Parsing page 136
+Previews parsed: 13 (+ 7 other games) on page number 136
+
+Parsing page 137
+Previews parsed: 19 (+ 1 other games) on page number 137
+
+Parsing page 138
+Previews parsed: 6 (+ 14 other games) on page number 138
+
+Parsing page 139
+Previews parsed: 20 (+ 0 other games) on page number 139
+
+Parsing page 140
+Previews parsed: 20 (+ 0 other games) on page number 140
+
+Parsing page 141
+Previews parsed: 20 (+ 0 other games) on page number 141
+
+Parsing page 142
+Previews parsed: 20 (+ 0 other games) on page number 142
+
+Parsing page 143
+Previews parsed: 20 (+ 0 other games) on page number 143
+
+Parsing page 144
+Previews parsed: 20 (+ 0 other games) on page number 144
+
+Parsing page 145
+Previews parsed: 20 (+ 0 other games) on page number 145
+
+Parsing page 146
+Previews parsed: 20 (+ 0 other games) on page number 146
+
+Parsing page 147
+Previews parsed: 20 (+ 0 other games) on page number 147
+
+Parsing page 148
+Previews parsed: 19 (+ 1 other games) on page number 148
+
+Parsing page 149
+Previews parsed: 20 (+ 0 other games) on page number 149
+
+Parsing page 150
+Previews parsed: 18 (+ 2 other games) on page number 150
+
+Parsing page 151
+Previews parsed: 20 (+ 0 other games) on page number 151
+
+Parsing page 152
+Previews parsed: 16 (+ 4 other games) on page number 152
+
+Parsing page 153
+Previews parsed: 12 (+ 8 other games) on page number 153
+
+Parsing page 154
+Previews parsed: 20 (+ 0 other games) on page number 154
+
+Parsing page 155
+Previews parsed: 6 (+ 14 other games) on page number 155
+
+Parsing page 156
+Previews parsed: 20 (+ 0 other games) on page number 156
+
+Parsing page 157
+Previews parsed: 20 (+ 0 other games) on page number 157
+
+Parsing page 158
+Previews parsed: 20 (+ 0 other games) on page number 158
+
+Parsing page 159
+Previews parsed: 20 (+ 0 other games) on page number 159
+
+Parsing page 160
+Previews parsed: 20 (+ 0 other games) on page number 160
+
+Parsing page 161
+Previews parsed: 20 (+ 0 other games) on page number 161
+
+Parsing page 162
+Previews parsed: 20 (+ 0 other games) on page number 162
+
+Parsing page 163
+Previews parsed: 20 (+ 0 other games) on page number 163
+
+Parsing page 164
+Previews parsed: 20 (+ 0 other games) on page number 164
+
+Parsing page 165
+Previews parsed: 19 (+ 1 other games) on page number 165
+
+Parsing page 166
+Previews parsed: 20 (+ 0 other games) on page number 166
+
+Parsing page 167
+Previews parsed: 18 (+ 2 other games) on page number 167
+
+Parsing page 168
+Previews parsed: 20 (+ 0 other games) on page number 168
+
+Parsing page 169
+Previews parsed: 20 (+ 0 other games) on page number 169
+
+Parsing page 170
+Previews parsed: 15 (+ 5 other games) on page number 170
+
+Parsing page 171
+Previews parsed: 16 (+ 4 other games) on page number 171
+
+Parsing page 172
+Previews parsed: 7 (+ 13 other games) on page number 172
+
+Parsing page 173
+Previews parsed: 20 (+ 0 other games) on page number 173
+
+Parsing page 174
+Previews parsed: 20 (+ 0 other games) on page number 174
+
+Parsing page 175
+Previews parsed: 20 (+ 0 other games) on page number 175
+
+Parsing page 176
+Previews parsed: 20 (+ 0 other games) on page number 176
+
+Parsing page 177
+Previews parsed: 20 (+ 0 other games) on page number 177
+
+Parsing page 178
+Previews parsed: 20 (+ 0 other games) on page number 178
+
+Parsing page 179
+Previews parsed: 20 (+ 0 other games) on page number 179
+
+Parsing page 180
+Previews parsed: 20 (+ 0 other games) on page number 180
+
+Parsing page 181
+Previews parsed: 20 (+ 0 other games) on page number 181
+
+Parsing page 182
+Previews parsed: 20 (+ 0 other games) on page number 182
+
+Parsing page 183
+Previews parsed: 20 (+ 0 other games) on page number 183
+
+Parsing page 184
+Previews parsed: 20 (+ 0 other games) on page number 184
+
+Parsing page 185
+Previews parsed: 18 (+ 2 other games) on page number 185
+
+Parsing page 186
+Previews parsed: 20 (+ 0 other games) on page number 186
+
+Parsing page 187
+Previews parsed: 20 (+ 0 other games) on page number 187
+
+Parsing page 188
+Previews parsed: 14 (+ 6 other games) on page number 188
+
+Parsing page 189
+Previews parsed: 18 (+ 2 other games) on page number 189
+
+Parsing page 190
+Previews parsed: 4 (+ 16 other games) on page number 190
+
+Parsing page 191
+Previews parsed: 20 (+ 0 other games) on page number 191
+
+Parsing page 192
+Previews parsed: 20 (+ 0 other games) on page number 192
+
+Parsing page 193
+Previews parsed: 20 (+ 0 other games) on page number 193
+
+Parsing page 194
+Previews parsed: 20 (+ 0 other games) on page number 194
+
+Parsing page 195
+Previews parsed: 20 (+ 0 other games) on page number 195
+
+Parsing page 196
+Previews parsed: 20 (+ 0 other games) on page number 196
+
+Parsing page 197
+Previews parsed: 20 (+ 0 other games) on page number 197
+
+Parsing page 198
+Previews parsed: 20 (+ 0 other games) on page number 198
+
+Parsing page 199
+Previews parsed: 20 (+ 0 other games) on page number 199
+
+Parsing page 200
+Previews parsed: 15 (+ 5 other games) on page number 200
+
+Parsing page 201
+Previews parsed: 0 (+ 20 other games) on page number 201
+
+Parsing page 202
+Previews parsed: 0 (+ 20 other games) on page number 202
+
+Parsing page 203
+Previews parsed: 4 (+ 16 other games) on page number 203
+
+Parsing page 204
+Previews parsed: 20 (+ 0 other games) on page number 204
+
+Parsing page 205
+Previews parsed: 18 (+ 2 other games) on page number 205
+
+Parsing page 206
+Previews parsed: 20 (+ 0 other games) on page number 206
+
+Parsing page 207
+Previews parsed: 20 (+ 0 other games) on page number 207
+
+Parsing page 208
+Previews parsed: 15 (+ 5 other games) on page number 208
+
+Parsing page 209
+Previews parsed: 12 (+ 8 other games) on page number 209
+
+Parsing page 210
+Previews parsed: 19 (+ 1 other games) on page number 210
+
+Parsing page 211
+Previews parsed: 5 (+ 15 other games) on page number 211
+
+Parsing page 212
+Previews parsed: 20 (+ 0 other games) on page number 212
+
+Parsing page 213
+Previews parsed: 20 (+ 0 other games) on page number 213
+
+Parsing page 214
+Previews parsed: 20 (+ 0 other games) on page number 214
+
+Parsing page 215
+Previews parsed: 20 (+ 0 other games) on page number 215
+
+Parsing page 216
+Previews parsed: 20 (+ 0 other games) on page number 216
+
+Parsing page 217
+Previews parsed: 20 (+ 0 other games) on page number 217
+
+Parsing page 218
+Previews parsed: 20 (+ 0 other games) on page number 218
+
+Parsing page 219
+Previews parsed: 20 (+ 0 other games) on page number 219
+

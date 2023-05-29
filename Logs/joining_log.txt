@@ -1,0 +1,758 @@
+Season  period: 2009-08-15 00:00:00 2010-05-09 00:00:00
+Preview period:  2009-08-21 00:00:00 2010-05-07 00:00:00
+Previews: 293
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['aston villa', 'blackburn', 'bolton', 'chelsea', 'everton', 'portsmouth', 'stoke', 'wolves', 'man united', 'tottenham', 'sunderland', 'wigan', 'birmingham', 'burnley', 'hull', 'liverpool', 'arsenal', 'man city', 'fulham', 'west ham']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 87
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  293 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+       HomeTeam     AwayTeam       Date preview_date
+230        hull      chelsea 2010-02-02   2010-01-08
+253       wigan       bolton 2010-02-17   2009-12-18
+278  portsmouth   birmingham 2010-03-09   2010-01-15
+291       wigan  aston villa 2010-03-16   2010-01-08
+302    west ham       wolves 2010-03-23   2010-01-08
+
+Matches without reviews: 92
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  288 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+Season  period: 2010-08-14 00:00:00 2011-05-22 00:00:00
+Preview period:  2010-08-13 00:00:00 2011-05-20 00:00:00
+Previews: 321
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['aston villa', 'blackburn', 'bolton', 'chelsea', 'sunderland', 'tottenham', 'wigan', 'wolves', 'liverpool', 'man united', 'arsenal', 'birmingham', 'everton', 'stoke', 'west brom', 'west ham', 'fulham', 'newcastle', 'man city', 'blackpool']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 59
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  321 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+       HomeTeam     AwayTeam       Date preview_date
+232       wigan  aston villa 2011-01-25   2010-12-17
+233   liverpool       fulham 2011-01-26   2010-12-17
+264  birmingham    newcastle 2011-02-15   2010-12-17
+266   blackpool    tottenham 2011-02-22   2010-12-17
+276     chelsea   man united 2011-03-01   2010-12-17
+
+Matches without reviews: 64
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  316 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+Season  period: 2011-08-13 00:00:00 2012-05-13 00:00:00
+Preview period:  2011-08-12 00:00:00 2012-05-11 00:00:00
+Previews: 331
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['blackburn', 'fulham', 'liverpool', 'newcastle', 'qpr', 'wigan', 'stoke', 'west brom', 'man city', 'arsenal', 'aston villa', 'chelsea', 'everton', 'sunderland', 'swansea', 'bolton', 'norwich', 'wolves', 'man united', 'tottenham']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 49
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  331 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+Empty DataFrame
+Columns: [HomeTeam, AwayTeam, Date, preview_date]
+Index: []
+
+Matches without reviews: 49
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  331 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+Season  period: 2012-08-18 00:00:00 2013-05-19 00:00:00
+Preview period:  2012-08-17 00:00:00 2013-05-17 00:00:00
+Previews: 319
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['arsenal', 'fulham', 'newcastle', 'qpr', 'reading', 'west brom', 'west ham', 'man city', 'wigan', 'everton', 'chelsea', 'aston villa', 'man united', 'norwich', 'southampton', 'swansea', 'tottenham', 'liverpool', 'stoke', 'sunderland']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 61
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  319 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+       HomeTeam AwayTeam       Date preview_date
+159  sunderland  reading 2012-12-11   2012-08-24
+
+Matches without reviews: 62
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  318 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+Season  period: 2013-08-17 00:00:00 2014-05-11 00:00:00
+Preview period:  2013-08-16 00:00:00 2014-05-09 00:00:00
+Previews: 310
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['arsenal', 'liverpool', 'norwich', 'sunderland', 'swansea', 'west brom', 'west ham', 'chelsea', 'crystal palace', 'man city', 'aston villa', 'everton', 'fulham', 'hull', 'newcastle', 'southampton', 'stoke', 'cardiff', 'tottenham', 'man united']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 70
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  310 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+Empty DataFrame
+Columns: [HomeTeam, AwayTeam, Date, preview_date]
+Index: []
+
+Matches without reviews: 70
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  310 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+Season  period: 2014-08-16 00:00:00 2015-05-24 00:00:00
+Preview period:  2014-08-15 00:00:00 2015-05-22 00:00:00
+Previews: 336
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['arsenal', 'leicester', 'man united', 'qpr', 'stoke', 'west brom', 'west ham', 'liverpool', 'newcastle', 'burnley', 'aston villa', 'chelsea', 'crystal palace', 'everton', 'southampton', 'swansea', 'hull', 'sunderland', 'tottenham', 'man city']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 44
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  336 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+Empty DataFrame
+Columns: [HomeTeam, AwayTeam, Date, preview_date]
+Index: []
+
+Matches without reviews: 44
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  336 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+Season  period: 2015-08-08 00:00:00 2016-05-17 00:00:00
+Preview period:  2015-08-07 00:00:00 2016-05-13 00:00:00
+Previews: 330
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['bournemouth', 'chelsea', 'everton', 'leicester', 'man united', 'norwich', 'arsenal', 'newcastle', 'stoke', 'west brom', 'aston villa', 'southampton', 'sunderland', 'swansea', 'tottenham', 'watford', 'west ham', 'crystal palace', 'man city', 'liverpool']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 50
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  330 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+Empty DataFrame
+Columns: [HomeTeam, AwayTeam, Date, preview_date]
+Index: []
+
+Matches without reviews: 50
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  330 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+Season  period: 2016-08-13 00:00:00 2017-05-21 00:00:00
+Preview period:  2016-08-12 00:00:00 2017-05-19 00:00:00
+Previews: 331
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['burnley', 'crystal palace', 'everton', 'hull', 'man city', 'middlesbrough', 'southampton', 'arsenal', 'bournemouth', 'chelsea', 'man united', 'leicester', 'stoke', 'swansea', 'tottenham', 'watford', 'west brom', 'sunderland', 'west ham', 'liverpool']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 49
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  331 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+Empty DataFrame
+Columns: [HomeTeam, AwayTeam, Date, preview_date]
+Index: []
+
+Matches without reviews: 49
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  331 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+Season  period: 2017-08-11 00:00:00 2018-05-13 00:00:00
+Preview period:  2017-08-10 00:00:00 2018-05-11 00:00:00
+Previews: 313
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['arsenal', 'brighton', 'chelsea', 'crystal palace', 'everton', 'southampton', 'watford', 'west brom', 'man united', 'newcastle', 'bournemouth', 'burnley', 'leicester', 'liverpool', 'stoke', 'swansea', 'huddersfield', 'tottenham', 'man city', 'west ham']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 67
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  313 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+Empty DataFrame
+Columns: [HomeTeam, AwayTeam, Date, preview_date]
+Index: []
+
+Matches without reviews: 67
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  313 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+Season  period: 2018-08-10 00:00:00 2019-05-12 00:00:00
+Preview period:  2018-08-09 00:00:00 2019-05-10 00:00:00
+Previews: 310
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['man united', 'bournemouth', 'fulham', 'huddersfield', 'newcastle', 'watford', 'wolves', 'arsenal', 'liverpool', 'southampton', 'cardiff', 'chelsea', 'everton', 'leicester', 'tottenham', 'west ham', 'brighton', 'burnley', 'man city', 'crystal palace']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 70
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  310 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+Empty DataFrame
+Columns: [HomeTeam, AwayTeam, Date, preview_date]
+Index: []
+
+Matches without reviews: 70
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  310 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+Season  period: 2019-08-09 00:00:00 2020-07-26 00:00:00
+Preview period:  2019-08-09 00:00:00 2020-03-07 00:00:00
+Previews: 239
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['liverpool', 'west ham', 'bournemouth', 'burnley', 'crystal palace', 'watford', 'tottenham', 'leicester', 'newcastle', 'man united', 'arsenal', 'aston villa', 'brighton', 'everton', 'norwich', 'southampton', 'man city', 'sheffield united', 'chelsea', 'wolves']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 141
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  239 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+     HomeTeam  AwayTeam       Date preview_date
+259  man city  west ham 2020-02-19   2020-02-08
+
+Matches without reviews: 142
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  238 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+Season  period: 2020-09-12 00:00:00 2021-05-23 00:00:00
+Preview period:  2020-09-11 00:00:00 2021-05-21 00:00:00
+Previews: 274
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['fulham', 'crystal palace', 'liverpool', 'west ham', 'west brom', 'tottenham', 'brighton', 'sheffield united', 'everton', 'leeds', 'man united', 'arsenal', 'southampton', 'newcastle', 'chelsea', 'leicester', 'aston villa', 'wolves', 'burnley', 'man city']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 106
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  274 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+       HomeTeam   AwayTeam       Date preview_date
+351  man united  liverpool 2021-05-13   2021-05-01
+
+Matches without reviews: 107
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  273 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+Season  period: 2021-08-13 00:00:00 2022-05-22 00:00:00
+Preview period:  2021-08-13 00:00:00 2022-05-20 00:00:00
+Previews: 302
+Matches: 380
+
+
+Duplicated matches:
+
+Empty DataFrame
+Columns: [preview_date, home_team, away_team, url]
+Index: []
+
+Team names difference: ([], [])
+Teams in database:
+ ['brentford', 'man united', 'burnley', 'chelsea', 'everton', 'leicester', 'watford', 'norwich', 'newcastle', 'tottenham', 'liverpool', 'aston villa', 'crystal palace', 'leeds', 'man city', 'brighton', 'southampton', 'wolves', 'arsenal', 'west ham']
+
+Previews not matched
+ Empty DataFrame
+Columns: [home_team, away_team, preview_date, url]
+Index: []
+
+Duplicated matches after join
+:
+Empty DataFrame
+Columns: [home_team, away_team, preview_date, Date, url]
+Index: []
+
+Matches without reviews before distant filter: 78
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  302 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
+
+Distant matches
+
+        HomeTeam   AwayTeam       Date preview_date
+244      burnley  tottenham 2022-02-23   2021-11-27
+357    tottenham    arsenal 2022-05-12   2022-01-15
+368  aston villa    burnley 2022-05-19   2021-12-17
+
+Matches without reviews: 81
+
+<class 'pandas.core.frame.DataFrame'>
+Int64Index: 380 entries, 0 to 379
+Data columns (total 2 columns):
+ #   Column     Non-Null Count  Dtype 
+---  ------     --------------  ----- 
+ 0   HomeTeam   380 non-null    object
+ 1   home_team  299 non-null    object
+dtypes: object(2)
+memory usage: 8.9+ KB
+None
